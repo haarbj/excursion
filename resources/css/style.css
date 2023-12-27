@@ -4,10 +4,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 /* 
 */
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
 }
 
 .header--main {
@@ -15,8 +11,6 @@ body {
     font-size: 50px;
     font-weight: normal;
     /* */
-    padding: 30px;
-    text-align: center;
 }
 
 .header--secondary {
@@ -24,30 +18,22 @@ body {
     font-size: 42px;
     font-weight: 300;
     /* */
-    padding: 30px;
-    text-align: center;
 }
 
 .header--subheader {
     color: gray;
     font-size: 21px;
     /* */
-    padding: 30px;
-    text-align: center;
 }
 
 .link--cta {
     color: aquamarine;
     font-size: 16px;
     /* */
-    padding: 30px;
-    text-align: center;
 }
 
 .footer--copyright {
     color: grey;
     font-size: 21px;
     text-align: right;
-    /* */
-    padding: 30px;
 }
