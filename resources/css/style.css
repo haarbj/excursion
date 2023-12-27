@@ -2,34 +2,28 @@ body {
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-/* 
-*/
 }
 
 .header--main {
     color: #ffffff;
     font-size: 50px;
     font-weight: normal;
-    /* */
 }
 
 .header--secondary {
     color: #ffffff;
     font-size: 42px;
     font-weight: 300;
-    /* */
 }
 
 .header--subheader {
     color: gray;
     font-size: 21px;
-    /* */
 }
 
 .link--cta {
     color: aquamarine;
     font-size: 16px;
-    /* */
 }
 
 .footer--copyright {
